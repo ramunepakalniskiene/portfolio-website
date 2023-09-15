@@ -26,4 +26,14 @@ footer{
     font-style: oblique;
 
 }
+.button {
+    background: cadetblue;
+    color: black;
+    margin-right: 10px;
+    padding: 6px 20px;
+    font-family: "Arial Narrow";
+    font-size: larger;
+    border-radius: 5px;
+    color: whitesmoke;
+}
 
